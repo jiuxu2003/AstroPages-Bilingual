@@ -7,7 +7,7 @@ export default config({
     process.env.NODE_ENV === 'production' || import.meta.env?.PROD
       ? {
           kind: 'github',
-          repo: 'jiuxu2003/blog_content',
+          repo: 'jiuxu2003/AstroPages-Bilingual',
         }
       : {
           kind: 'local',
