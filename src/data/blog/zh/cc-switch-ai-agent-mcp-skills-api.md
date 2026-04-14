@@ -58,7 +58,7 @@ Windows、MacOS、Linux三端皆可安装，见cc-switch的[`readme`](https://gi
 
 现在，只需一个按钮，即可实现 Base URL 和 Key 的热切换：
 
-![](https://raw.githubusercontent.com/jiuxu2003/picbed/main/blog/CC%20Switch%20O.png?token=A7WAJHLSAQQY5E6SOUEE3PDJ3Y3OM)
+![CC Switch O.png](https://raw.githubusercontent.com/jiuxu2003/picbed/main/blog/CC%20Switch%20O.png?token=A7WAJHLSAQQY5E6SOUEE3PDJ3Y3OM)
 
 ### 总结
 
