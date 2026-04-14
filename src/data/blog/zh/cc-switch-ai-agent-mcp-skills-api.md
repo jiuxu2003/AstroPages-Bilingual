@@ -5,7 +5,7 @@ description: >-
   随着 AI CLI 工具（如 Claude code、Gemini CLI 等）的快速普及，开发者面临着严重的配置管理碎片化问题。cc-switch
   应运而生，作为一款类似于 nvm 或 conda 的 AI 终端管理器，它致力于解决多 Agent 协同环境下的配置与 API 路由痛点。
 draft: false
-featured: false
+featured: true
 tags:
   - 开源项目推荐
   - AI
@@ -58,7 +58,7 @@ Windows、MacOS、Linux三端皆可安装，见cc-switch的[`readme`](https://gi
 
 现在，只需一个按钮，即可实现 Base URL 和 Key 的热切换：
 
-![](image.png)
+![](CC%20Switch%20O.png)
 
 ### 总结
 
