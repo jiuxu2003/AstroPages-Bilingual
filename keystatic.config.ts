@@ -7,7 +7,7 @@ export default config({
     process.env.NODE_ENV === 'production' || import.meta.env?.PROD
       ? {
           kind: 'github',
-          repo: 'jiuxu2003/bilingual-blog',
+          repo: 'jiuxu2003/blog_content',
         }
       : {
           kind: 'local',
