@@ -1,6 +1,9 @@
 ---
 title: 告别环境混乱！使用 cc-switch 优雅管理多 AI Agent 的 MCP、Skills 与 API
 pubDatetime: 2026-04-14
+description: >-
+  随着 AI CLI 工具（如 Claude code、Gemini CLI 等）的快速普及，开发者面临着严重的配置管理碎片化问题。cc-switch
+  应运而生，作为一款类似于 nvm 或 conda 的 AI 终端管理器，它致力于解决多 Agent 协同环境下的配置与 API 路由痛点。
 draft: false
 featured: false
 tags:
