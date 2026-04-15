@@ -66,4 +66,4 @@ Windows、MacOS、Linux三端皆可安装，见cc-switch的[`readme`](https://gi
 
 如果你也每天在各类 CLI Agent 中反复横跳，强烈建议花 5 分钟把 `cc-switch` 接入你的工作流。
 
-*(Life Learning & Happy coding!)*
+*(Lifelong Learning & Happy coding!)*
