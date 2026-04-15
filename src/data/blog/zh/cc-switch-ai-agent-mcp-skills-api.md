@@ -44,11 +44,11 @@ Windows、MacOS、Linux三端皆可安装，见cc-switch的[`readme`](https://gi
 
 假设我们现在要配置我们的环境：给所有 Agent 装上通用的 skills([`antd-commit-msg`](https://github.com/ant-design/ant-design/tree/master/.agents/skills/commit-msg)、[minimax-docx](https://github.com/MiniMax-AI/skills/tree/main/skills/minimax-docx))，并单独给 Gemini 开前端小灶([frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design)和[frontend-dev](https://github.com/MiniMax-AI/skills/tree/main/skills/frontend-dev))。
 
-![](https://raw.githubusercontent.com/jiuxu2003/picbed/main/blog/截屏2026-04-14 16.51.50.png?token=A7WAJHJSNZ4WKBR6Y4SQ4M3J3Y3LG)
+![截屏2026-04-14 16.51.50.png](https://webp.030727.xyz/blog/%E6%88%AA%E5%B1%8F2026-04-14%2016.51.50.png)
 
 通过点击几下鼠标，环境隔离做得明明白白。并且cc-switch支持自定义skill仓库（两个个人推荐，[**awesome-~~claude~~-skills**](https://github.com/ComposioHQ/awesome-claude-skills)**和[MiniMax-skills](https://github.com/MiniMax-AI/skills)，**~~你知道的我一直是minimax的粉丝~~）
 
-![](https://raw.githubusercontent.com/jiuxu2003/picbed/main/blog/截屏2026-04-14 17.26.44.png?token=A7WAJHN3PAIDBV64KM67EK3J3Y3N2)
+![截屏2026-04-14 17.26.44.png](https://webp.030727.xyz/blog/%E6%88%AA%E5%B1%8F2026-04-14%2017.26.44.png)
 
 #### 2. 毫秒级的订阅热切换 (Hot-swapping)
 
@@ -58,7 +58,7 @@ Windows、MacOS、Linux三端皆可安装，见cc-switch的[`readme`](https://gi
 
 现在，只需一个按钮，即可实现 Base URL 和 Key 的热切换：
 
-![CC Switch O.png](https://raw.githubusercontent.com/jiuxu2003/picbed/main/blog/CC%20Switch%20O.png?token=A7WAJHLSAQQY5E6SOUEE3PDJ3Y3OM)
+![CC Switch O.png](https://webp.030727.xyz/blog/CC%20Switch%20O.png)
 
 ### 总结
 
