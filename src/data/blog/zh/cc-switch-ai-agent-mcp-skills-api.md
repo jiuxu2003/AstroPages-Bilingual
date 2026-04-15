@@ -18,7 +18,7 @@ tags:
 
 在实际的高强度开发中，我们对 Agent 工具链的需求往往是割裂的：
 
-1. **通用能力的复用**：有些神仙级别的插件我们希望全局通用。比如久负盛名的 [`superpower`](https://github.com/obra/superpowers)skill，或者强大上下文管理工具 [`contex 7`](https://github.com/upstash/context7)MCP我们恨不得给每个 Agent 都挂载上。
+1. **通用能力的复用**：有些神仙级别的插件我们希望全局通用。比如久负盛名的 [`superpower`](https://github.com/obra/superpowers)skill，或者强大上下文管理工具 [`context7`](https://github.com/upstash/context7)MCP我们恨不得给每个 Agent 都挂载上。
 1. **特定模型的特化**：有些工具则强依赖于特定模型的长板。举个例子，业界公认 Gemini 在处理前端组件和样式表时有着惊艳的表现。因此，我们可能只希望让 Gemini CLI 去调用处理前端的专门工具（比如 minimax 的 [`front-dev`](https://github.com/MiniMax-AI/skills/tree/main/skills/frontend-dev)），而不是把这些前端 Skill 强塞给擅长后端逻辑的 Claude。
 
 过去，我们要么在冗长的 `.zshrc` 里写满条件判断，要么在各个工具的 config 文件里来回复制粘贴。直到 [**`cc-switch`**](https://github.com/farion1231/cc-switch) 的出现，这种混乱终于迎来了终结。
