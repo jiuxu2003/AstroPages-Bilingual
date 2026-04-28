@@ -1,3 +1,15 @@
+---
+title: 把VSCode换成Obsidian后......
+pubDatetime: 2026-04-28
+description: >-
+  使用Obsidian搭建知识库的教程
+draft: false
+featured: false
+tags: 
+  - 开源项目推荐
+  - AI
+---
+
 在 AI 浪潮席卷的今天，相信大家对 Markdown 这种轻量级标记语言已经再熟悉不过了。那么问题来了：**你平时都在用什么 Markdown 编辑器？**
 
 什么什么？你说你还在用 Notepad++ 甚至 Windows 自带的记事本？那都多少年的老古董了！
