@@ -2,7 +2,7 @@
 title: 把VSCode换成Obsidian后......
 pubDatetime: 2026-04-28
 description: >-
-  使用Obsidian搭建知识库的教程
+  还在用记事本写 Markdown？在这个 AI 时代，是时候用 Obsidian 打造你的专属“第二大脑”了。本文带你解锁 Obsidian 的高颜值 UI、Git 全自动同步配置指南、震撼的双向链接图谱，以及如何利用 Obsidian-Skills 将大模型无缝融入知识库工作流。
 draft: false
 featured: false
 tags: 
@@ -16,7 +16,7 @@ tags:
 
 你说你用 VSCode + Markdown 扩展？嗯，那还算凑合。但 VSCode 终究是一个为 Coding 而生的 IDE。如果你的诉求是**保存某次和大模型的精彩对话**，或者是**引用一个月前看过的一篇核心文献**，甚至想要**构建一套属于自己的知识库**…… 难道就没有更优雅的解法吗？
 
-有的，兄弟。
+有的，兄弟，有的。
 快来加入我们 **Obsidian** 大军吧！选择 [Obsidian](https://obsidian.md/)，你将彻底改变你的知识管理工作流，并拥有以下极其舒适的体验：
 
 ---
